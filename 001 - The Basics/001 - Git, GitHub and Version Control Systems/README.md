@@ -11,7 +11,7 @@ Before diving into Git and GitHub discussion topic, we need to know what VCSs ar
 
 Besides of controlling versions VCSs also register who have made certain changes in a project so that if somebody has any claims to certain changes they can see who they're gonna adress them to.
 
-There is 2 types of VCSs: **centralized** and **distributed** <br> <img src="VCS_types.png" width="70%"> <br> (you can also read more about version control in general [here](https://en.wikipedia.org/wiki/Distributed_version_control))
+There is 2 types of VCSs: **centralized** and **distributed** <br> <img src="../../Images/001_The_Basics/VCS_types.png" width="70%"> <br> (you can also read more about version control in general [here](https://en.wikipedia.org/wiki/Distributed_version_control))
 
 <br>
 
@@ -25,7 +25,7 @@ Centralized VCSs are used for massive projects, that would be be impossible or e
 
 Though with such advantage of being able to store large amounts of data, centralized VCSs have a big and important issue - <span style="color:red">single point of failure</span>. If a server goes down, files get corrupted or data is being lost, nobody will have access to the project anymore. So while using centralized VCS it is important to maintain servers well and have backups of project somewhere else, for example on another server.
 
-Examples of centralized VCSs: <br> <img src="Subversion_logo.png" width="6%"><img src="CVS_logo.png" width="9%"><img src="Perforce_logo.png" width="15%"> <br>
+Examples of centralized VCSs: <br> <img src="../../Images/001_The_Basics/Subversion_logo.png" width="6%"><img src="../../Images/001_The_Basics/CVS_logo.png" width="9%"><img src="../../Images/001_The_Basics/Perforce_logo.png" width="15%"> <br>
 - *Subversion (SVN)[*](https://en.wikipedia.org/wiki/Apache_Subversion)[*](https://subversion.apache.org/)*
 - *Concurrent Version System (CVS)[*](https://en.wikipedia.org/wiki/Concurrent_Versions_System)[*](https://cvs.nongnu.org/) (it is obsolete and rarely used nowadays)*
 - *Perforce[*](https://en.wikipedia.org/wiki/Perforce)[*](https://www.perforce.com/)*
@@ -34,14 +34,14 @@ Examples of centralized VCSs: <br> <img src="Subversion_logo.png" width="6%"><im
 
 **Distributed** VCSs, similar to centralized, use a remote server to keep a repository, except all users download a *copy* of this repository for themselves to work on it locally. Then during work users update their own version of repository - they  *commit* changes. After getting all the needed work done, user then *pushes* them to remote repository, updating it. Users can also *pull* any new changes that's been made to remote repository to *update* their local repository to the latest version with all the changes.
 
-Examples of distributed VCSs: <br> <img src="Git_logo.png" width="10%"><img src="Mercurial_logo.png" width="5%"><img src="Fossil_logo.png" width="4%"> <br>
+Examples of distributed VCSs: <br> <img src="../../Images/001_The_Basics/Git_logo.png" width="10%"><img src="../../Images/001_The_Basics/Mercurial_logo.png" width="5%"><img src="../../Images/001_The_Basics/Fossil_logo.png" width="4%"> <br>
 - *Git[*](https://en.wikipedia.org/wiki/Git)[*](https://git-scm.com/)*
 - *Mercurial[*](https://en.wikipedia.org/wiki/Mercurial)[*](https://www.mercurial-scm.org/)*
 - *Fossil[*](https://en.wikipedia.org/wiki/Fossil_(software))[*](https://fossil-scm.org/home/doc/trunk/www/index.wiki)*
 
 <br>
 
-There also exist **local** VCS, where version storage simply lies on user's own computer. <br> <img src="local_VCS.png" width="45%"> <br> Usually in that case file management is manual, by using folders, but there is software that allows local version control. Such one being *Revision Control System (RCS)[*](https://en.wikipedia.org/wiki/Revision_Control_System)*.
+There also exist **local** VCS, where version storage simply lies on user's own computer. <br> <img src="../../Images/001_The_Basics/local_VCS.png" width="45%"> <br> Usually in that case file management is manual, by using folders, but there is software that allows local version control. Such one being *Revision Control System (RCS)[*](https://en.wikipedia.org/wiki/Revision_Control_System)*.
 
 <br>
 
