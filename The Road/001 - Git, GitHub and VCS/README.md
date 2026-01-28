@@ -1,6 +1,6 @@
-# 1 - Git and GitHub, Version Control Systems
+# 1 - Git, GitHub and VCS
 **[Return: Topics](../)**
-**[Next: 2 - Electricity](../002%20-%20Electricity)**
+**[Next: 2 - Code Editors and IDE](../002%20-%20Code%20Editors%20and%20IDE)**
 ***
 
 This project is currently located on a GitHub[*](https://en.wikipedia.org/wiki/GitHub)[*](https://github.com/) hosted repository and I use GitHub Desktop to work with this repository. For some this may be a familiar name, but for some not. For any developer it is crucial to know what are these, as they make teamwork and personal project extremely easy to share between team members and even personal devices. So here I will explain what are GitHub and Git and what is difference between them.
@@ -58,4 +58,4 @@ GHD is an official GUI shell for Git, but there are also plenty of other unoffic
 
 ***
 **[Return: Topics](../)**
-**[Next: 2 - Electricity](../002%20-%20Electricity)**
+**[Next: 2 - Code Editors and IDE](../002%20-%20Code%20Editors%20and%20IDE)**
