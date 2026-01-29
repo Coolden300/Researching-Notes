@@ -25,4 +25,10 @@ Holy shit, that was quite a lot of time... **wasted**. So how did it go:
 - Make simple thing from their manual
 - Get at least slightest joy from hearing something "alive" making noises...
 
-<video src="Assets/video_2026-01-29_22-30-24.mp4" controls preload></video>
+[![](https://markdown-videos-api.jorgenkh.no/youtube/rUbFND69OnU)](https://youtu.be/rUbFND69OnU)
+
+Now I know how to add fake yet functional youtube links in my markdown files too. Well that's an improvement I guess.
+
+Tomorrow I will probably need to actually read Elegoos documentation that I've downloaded about all the parts and libraries, and fix up navigation for this repository.
+
+Haven't even finished my history assigment to do this garbage! 💢
