@@ -12,13 +12,16 @@ Need to take a bit of rest. Got quite overwhelmed after solving bunch of issues.
 18:14
 
 After a ton of useless research i stopped with using VS Code just to simply edit files, without any other addons, and ARduino IDE separately to verify/upload sketches. Also I've completed first lesson from tutorial, which being LED and resistors lesson. Quite proud of myself!
-
+<img src="LED.png" width="50%">
 Now on to doing next lessons. The next one is about RGB LEDs.
 
 19:24
 
 I have now learned how to work with analog ports and LED lights! Not professionally though. Also RGB LED flickers instead of lighting normally on mid frequencies. Guess it might be that it comes from China, lol.
+<img src="RGB_LED.png" width="50%">
 
 20:30
 
 Whoops, I forgot to write a log before going to eat. Well what I've learned now is how to work with these 4-pin buttons. I even made my own program that makes an LED light gradually increase brightness the longer you hold right button and turn off when you press left one.
+
+[Video link](LED%20program.mp4)
